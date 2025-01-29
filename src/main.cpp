@@ -3,7 +3,7 @@
 #include "Food.hpp"
 #include "Microwave.hpp"
 
-extern std::vector<Food> loadDishesFromXML(const std::string& xmlFilePath);  // Deklaracja zewnętrznej funkcji
+extern std::vector<Food> loadDishesFromXML(const std::string& xmlFilePath);  
 
 int main() {
     // ldaowanie danych z xml

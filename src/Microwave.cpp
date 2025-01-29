@@ -14,8 +14,8 @@ bool Microwave::cook(const Food& food) {
     std::string cookingResult = food.evaluateCooking(currentTime, currentTemp);
     // weryfikacja zgodnosci danych
     if (cookingResult == "perfectly cooked") {
-        return true; // Gotowanie udane
+        return true; // gotowanie udane
     } else {
-        return false; // Gotowanie nieudane, przegotowane lub niedogotowane
+        return false; // gotowanie nieudane
     }
 }
