@@ -1,0 +1,107 @@
+<Dishes>
+    <Dish>
+        <Name>Instant Oatmeal</Name>
+        <OptimalTime>90</OptimalTime> <!-- 1.5 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Scrambled Eggs</Name>
+        <OptimalTime>120</OptimalTime> <!-- 2 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Popcorn</Name>
+        <OptimalTime>150</OptimalTime> <!-- 2.5 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Frozen Pizza</Name>
+        <OptimalTime>180</OptimalTime> <!-- 3 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Hot Dog</Name>
+        <OptimalTime>60</OptimalTime> <!-- 1 minute -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Mac and Cheese</Name>
+        <OptimalTime>240</OptimalTime> <!-- 4 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Chicken Nuggets</Name>
+        <OptimalTime>180</OptimalTime> <!-- 3 minutes -->
+        <OptimalTemp>160</OptimalTemp> <!-- 160 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Vegetable Medley</Name>
+        <OptimalTime>180</OptimalTime> <!-- 3 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Garlic Bread</Name>
+        <OptimalTime>90</OptimalTime> <!-- 1.5 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Rice Bowl</Name>
+        <OptimalTime>180</OptimalTime> <!-- 3 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Miso Soup</Name>
+        <OptimalTime>90</OptimalTime> <!-- 1.5 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Steamed Dumplings</Name>
+        <OptimalTime>120</OptimalTime> <!-- 2 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Grilled Cheese Sandwich</Name>
+        <OptimalTime>150</OptimalTime> <!-- 2.5 minutes -->
+        <OptimalTemp>150</OptimalTemp> <!-- 150 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>French Fries</Name>
+        <OptimalTime>180</OptimalTime> <!-- 3 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Spaghetti</Name>
+        <OptimalTime>120</OptimalTime> <!-- 2 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Bacon</Name>
+        <OptimalTime>120</OptimalTime> <!-- 2 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Sausage Roll</Name>
+        <OptimalTime>120</OptimalTime> <!-- 2 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Chocolate Cake Mug</Name>
+        <OptimalTime>90</OptimalTime> <!-- 1.5 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Chicken Wings</Name>
+        <OptimalTime>180</OptimalTime> <!-- 3 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Instant Noodles</Name>
+        <OptimalTime>180</OptimalTime> <!-- 3 minutes -->
+        <OptimalTemp>100</OptimalTemp> <!-- 100 Celsius degrees -->
+    </Dish>
+    <Dish>
+        <Name>Baked Potato</Name>
+        <OptimalTime>240</OptimalTime> <!-- 4 minutes -->
+        <OptimalTemp>180</OptimalTemp> <!-- 180 Celsius degrees -->
+    </Dish>
+</Dishes>
